@@ -10,7 +10,7 @@ This was built upon [D3.js](https://d3js.org/) and [Venn.js](http://benfred.gith
 1. Put all the files inside `js` and `css` to your project
 2. Import them into your html using the following code
 
-```
+```html
 <!-- import css -->
 <link rel="stylesheet" href="{{ your directory }}/venn-diagram.css">
 
@@ -25,7 +25,7 @@ This was built upon [D3.js](https://d3js.org/) and [Venn.js](http://benfred.gith
 3. Customize at `js/venn-diagram.js`
 4. Import the following codes at your own html file
 
-```
+```html
 <div id="venn"></div>
 <div id="tooltip"></div>
 ```
