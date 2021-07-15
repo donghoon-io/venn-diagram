@@ -6,7 +6,7 @@ This was built upon [D3.js](https://d3js.org/) and [Venn.js](http://benfred.gith
 Inspired from [Bjoern Hartmann]()'s personal website.
 
 ## Preview
-![preview](screenshot/venn-diagram)
+![preview](screenshot/venn-diagram.gif)
 
 ## Usage
 1. Import all the files inside `js` and `css` to your project
