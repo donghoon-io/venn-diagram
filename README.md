@@ -1,5 +1,5 @@
 # Venn diagram
-An interactive venn diagram for showcasing your research projects, inspired from [Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern/)'s personal website. A tooltip appears when you hover over each section.
+An interactive Venn diagram for showcasing your research projects, inspired from [Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern/)'s personal website. A tooltip appears when you hover over each section.
 
 This was built upon [D3.js](https://d3js.org/) and [Venn.js](http://benfred.github.io/venn.js/)
 
